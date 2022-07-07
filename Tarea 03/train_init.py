@@ -1,3 +1,10 @@
+import nltk
+nltk.download('punkt')
+nltk.download('wordnet')
+from nltk.stem import WordNetLemmatizer
+lemmatizer = WordNetLemmatizer()
+import random
+
 # initializing training data
 training = []
 output_empty = [0] * len(classes)

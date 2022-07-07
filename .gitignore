@@ -1,2 +1,9 @@
 .venv/
 .vscode/
+*.txt
+*.jpg
+*.jpeg
+*.png
+*.h5
+Thumbs.db
+Tarea_5_Procesamiento_basico_de_imagenes.ipynb
